@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.page-heading {
+  text-align: center;
+}
+
+.bread-crumps{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
